@@ -1,0 +1,5 @@
+
+@font-face {font-family: juni; src: url(JunicodeVF-Roman.woff2); font-style: normal;}
+@font-face {font-family: juni; src: url(JunicodeVF-Italic.woff2); font-style: italic;}
+
+body {font-family: juni, sans-serif;}
