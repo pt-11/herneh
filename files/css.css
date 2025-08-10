@@ -1,5 +1,7 @@
 
-@font-face {font-family: juni; src: url(JunicodeVF-Roman.woff2); font-style: normal;}
-@font-face {font-family: juni; src: url(JunicodeVF-Italic.woff2); font-style: italic;}
+@font-face {font-family: andi; src: url(Andika400.woff2); font-style: normal; font-weight: normal;}
+@font-face {font-family: andi; src: url(Andika401.woff2); font-style: italic; font-weight: normal;}
+@font-face {font-family: andi; src: url(Andika700.woff2); font-style: normal; font-weight: bold;}
+@font-face {font-family: andi; src: url(Andika701.woff2); font-style: italic; font-weight: bold;}
 
-body {font-family: juni, sans-serif;}
+body {font-family: andi, sans-serif;}
