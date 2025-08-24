@@ -28,15 +28,11 @@ audio {display: block;}
 
 figure {margin: 1em 0;} figcaption {font-size: small; text-align: center;}
 
+hr {border: 1px solid #314158;}
+
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 table, th, td {border: thin solid #cad5e2; padding: 0.2em 0.5em;} /* slate 300 */
 th, td {vertical-align: top;}
 
-.akcent1 {
-background: #c70036; color: #f1f5f9;
-font: 3em/1.3 andi;
-padding: 0.5em 0;
-text-align: center;
-}
 .kol2 {columns: 2;}
 .wys {margin: 1em 0;} .wys p {margin: 0; padding: 0 0 0 1em; text-indent: -1em;}
