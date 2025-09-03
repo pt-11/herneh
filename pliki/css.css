@@ -9,6 +9,11 @@
 @font-face {font-family: andi; src: url(Andika700.woff2); font-style: normal; font-weight: bold;}
 @font-face {font-family: andi; src: url(Andika701.woff2); font-style: italic; font-weight: bold;}
 
+@font-face {font-family: noto; src: url(NotoSerifCondensed400.otf); font-style: normal; font-weight: normal;}
+@font-face {font-family: noto; src: url(NotoSerifCondensed401.otf); font-style: italic; font-weight: normal;}
+@font-face {font-family: noto; src: url(NotoSerifCondensed800.otf); font-style: normal; font-weight: bold;}
+@font-face {font-family: noto; src: url(NotoSerifCondensed801.otf); font-style: italic; font-weight: bold;}
+
 @font-face {font-family: ulfi; src: url(ulfilas700.otf); font-style: normal; font-weight: bold;}
 b:lang(got) {font-family: ulfi; text-transform: uppercase;}
 b:lang(got).c1::before, b:lang(got).c1::after {content: '·';} /* middle dot, u+00b7 */
@@ -16,7 +21,7 @@ b:lang(got).c2 {text-decoration: overline;}
 
 body {
 background: #ffffff; color: #314158; /* white & slate 700 */
-font: 12pt/1.5 gent, sans-serif;
+font: 12pt/1.5 noto, sans-serif;
 hyphens: auto;
 margin: 0 auto; max-width: 40em; padding: 1em;
 }
