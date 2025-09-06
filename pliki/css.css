@@ -3,6 +3,8 @@
 @font-face {font-family: noto; src: url(NotoSerifCondensed401.otf); font-style: italic; font-weight: normal;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed800.otf); font-style: normal; font-weight: bold;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed801.otf); font-style: italic; font-weight: bold;}
+@font-face {font-family: notod; src: url(NotoSerifDisplayCondensed800.otf); font-style: normal; font-weight: bold;}
+@font-face {font-family: notod; src: url(NotoSerifDisplayCondensed801.otf); font-style: italic; font-weight: bold;}
 
 body {
 background: #ffffff; color: #314158; /* white & slate 700 */
@@ -17,6 +19,8 @@ a:hover, a:active {color: #c70036;} /* rose 700 */
 audio {display: block;}
 
 figure {margin: 1em 0;} figcaption {font-size: small; text-align: center;}
+
+h1, h2 {font-family: notod;}
 
 hr {border: 1px solid #314158;}
 

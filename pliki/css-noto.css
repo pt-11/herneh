@@ -1,7 +1,0 @@
-
-@font-face {font-family: noto; src: url(NotoSerifCondensed400.otf); font-style: normal; font-weight: normal;}
-@font-face {font-family: noto; src: url(NotoSerifCondensed401.otf); font-style: italic; font-weight: normal;}
-@font-face {font-family: noto; src: url(NotoSerifCondensed800.otf); font-style: normal; font-weight: bold;}
-@font-face {font-family: noto; src: url(NotoSerifCondensed801.otf); font-style: italic; font-weight: bold;}
-
-body {font-family: noto, sans-serif;}
