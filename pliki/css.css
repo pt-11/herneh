@@ -1,14 +1,4 @@
 
-@font-face {font-family: gent; src: url(Gentium400.woff2); font-style: normal; font-weight: normal;}
-@font-face {font-family: gent; src: url(Gentium401.woff2); font-style: italic; font-weight: normal;}
-@font-face {font-family: gent; src: url(Gentium800.woff2); font-style: normal; font-weight: bold;}
-@font-face {font-family: gent; src: url(Gentium801.woff2); font-style: italic; font-weight: bold;}
-
-@font-face {font-family: andi; src: url(Andika400.woff2); font-style: normal; font-weight: normal;}
-@font-face {font-family: andi; src: url(Andika401.woff2); font-style: italic; font-weight: normal;}
-@font-face {font-family: andi; src: url(Andika700.woff2); font-style: normal; font-weight: bold;}
-@font-face {font-family: andi; src: url(Andika701.woff2); font-style: italic; font-weight: bold;}
-
 @font-face {font-family: noto; src: url(NotoSerifCondensed400.otf); font-style: normal; font-weight: normal;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed401.otf); font-style: italic; font-weight: normal;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed800.otf); font-style: normal; font-weight: bold;}
