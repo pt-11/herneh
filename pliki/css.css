@@ -1,4 +1,9 @@
 
+@font-face {font-family: gent; src: url(Gentium400.woff2); font-style: normal; font-weight: normal;}
+@font-face {font-family: gent; src: url(Gentium401.woff2); font-style: italic; font-weight: normal;}
+@font-face {font-family: gent; src: url(Gentium800.woff2); font-style: normal; font-weight: bold;}
+@font-face {font-family: gent; src: url(Gentium801.woff2); font-style: italic; font-weight: bold;}
+
 @font-face {font-family: noto; src: url(NotoSerifCondensed400.otf); font-style: normal; font-weight: normal;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed401.otf); font-style: italic; font-weight: normal;}
 @font-face {font-family: noto; src: url(NotoSerifCondensed800.otf); font-style: normal; font-weight: bold;}
@@ -17,8 +22,6 @@ a:hover, a:active {color: #c70036;} /* rose 700 */
 audio {display: block;}
 
 figure {margin: 1em 0;} figcaption {font-size: small; text-align: center;}
-
-hr {border: 1px solid #314158;}
 
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 th, td {border: thin solid #cad5e2; padding: 0.2em 0.5em; vertical-align: top;} /* slate 300 */
